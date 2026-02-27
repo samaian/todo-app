@@ -27,39 +27,6 @@ Users can register, log in, and manage their personal tasks with full CRUD opera
 
 ---
 
-## 📂 Project Structure
-
-```
-todo-app/
-│
-├── manage.py
-├── db.sqlite3
-│
-├── todo_project/
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── tasks/
-│   ├── models.py
-│   ├── views.py
-│   ├── urls.py
-│   ├── forms.py
-│   └── templates/
-│       ├── base.html
-│       ├── login.html
-│       ├── register.html
-│       ├── task_list.html
-│       ├── task_form.html
-│       └── task_confirm_delete.html
-│
-└── static/
-    └── css/
-        └── style.css
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
